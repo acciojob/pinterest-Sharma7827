@@ -1,1 +1,28 @@
-/*  your css code here. If applicable */
+.hero{
+        width: 100vw;
+        min-height: 100%;
+        display: flex;
+        align-items: center;
+        
+       }
+
+       .image{
+        width: 80%;
+        height: 100%;
+        object-fit: cover;
+       }
+
+       .desp{
+        text-align: center;
+        width: 20%;
+        padding: 20px;
+        margin: 20px;
+       }
+
+       button{
+        background-color: red;
+        color: azure;
+        border-radius: 10%;
+        padding: 20Spx;
+
+       }
